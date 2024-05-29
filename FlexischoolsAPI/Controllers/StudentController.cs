@@ -24,8 +24,7 @@ namespace FlexischoolsAPI.Controllers
         {
             var accountDto = await _services.StudentService.GetByIdAsync(id, cancellationToken);
 
-            return Ok(accountDto);
-        }
+            return Ok(accountDto);        }
 
         [HttpGet("GetBySubjectId")]
         public async Task<IActionResult> Retrieve(int subjectId, CancellationToken cancellationToken)

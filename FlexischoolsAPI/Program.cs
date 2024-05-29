@@ -1,9 +1,9 @@
 using Microsoft.EntityFrameworkCore;
-using Repositories.Interfaces;
-using Repositories.Repository;
-using Repositories;
+using DataAccessLayer.Interfaces;
+using DataAccessLayer.Repository;
 using Services.Interfaces;
 using FlexischoolsAPI.Middleware;
+using DataAccessLayer;
 
 var builder = WebApplication.CreateBuilder(args);
 

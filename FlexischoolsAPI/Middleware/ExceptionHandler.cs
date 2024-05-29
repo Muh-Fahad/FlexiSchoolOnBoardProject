@@ -1,4 +1,4 @@
-﻿using Repositories.Exceptions;
+﻿using DataAccessLayer.Exceptions;
 using System.Text.Json;
 
 namespace FlexischoolsAPI.Middleware

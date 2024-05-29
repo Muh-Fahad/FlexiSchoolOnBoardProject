@@ -1,6 +1,6 @@
-﻿using Repositories.Entities;
+﻿using DataAccessLayer.Entities;
 using Mapster;
-using Repositories.Interfaces;
+using DataAccessLayer.Interfaces;
 using Services.DTOs;
 using Services.Interfaces;
 using System;

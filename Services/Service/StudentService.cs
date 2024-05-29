@@ -1,5 +1,5 @@
-﻿using Repositories.Entities;
-using Repositories.Interfaces;
+﻿using DataAccessLayer.Entities;
+using DataAccessLayer.Interfaces;
 using Services.DTOs;
 using Services.Interfaces;
 using System;

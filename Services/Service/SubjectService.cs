@@ -1,6 +1,6 @@
-﻿using Repositories.Entities;
-using Repositories.Exceptions;
-using Repositories.Interfaces;
+﻿using DataAccessLayer.Entities;
+using DataAccessLayer.Exceptions;
+using DataAccessLayer.Interfaces;
 using Services.DTOs;
 using Services.Interfaces;
 using System;
