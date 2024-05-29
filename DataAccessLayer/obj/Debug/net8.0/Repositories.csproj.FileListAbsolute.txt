@@ -1,0 +1,48 @@
+F:\Project\New folder (2)\Repositories\bin\Debug\net8.0\Repositories.deps.json
+F:\Project\New folder (2)\Repositories\bin\Debug\net8.0\Repositories.dll
+F:\Project\New folder (2)\Repositories\bin\Debug\net8.0\Repositories.pdb
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.dll
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\Repositories.pdb
+F:\Project\New folder (2)\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+F:\Project\On-Board-Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+F:\Project\On-Board-Project\Repositories\bin\Debug\net8.0\Repositories.dll
+F:\Project\On-Board-Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.dll
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+F:\Project\On-Board-Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+F:\On-Board-Project\On-Board-Project\Repositories\bin\Debug\net8.0\Repositories.deps.json
+F:\On-Board-Project\On-Board-Project\Repositories\bin\Debug\net8.0\Repositories.dll
+F:\On-Board-Project\On-Board-Project\Repositories\bin\Debug\net8.0\Repositories.pdb
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.dll
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\Repositories.pdb
+F:\On-Board-Project\On-Board-Project\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Repositories\obj\Debug\net8.0\ref\Repositories.dll

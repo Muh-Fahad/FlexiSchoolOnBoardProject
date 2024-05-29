@@ -1,0 +1,27 @@
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Learning\Azure\Services\bin\Debug\net6.0\Services.deps.json
+D:\Learning\Azure\Services\bin\Debug\net6.0\Services.dll
+D:\Learning\Azure\Services\bin\Debug\net6.0\Services.pdb
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.dll
+D:\Learning\Azure\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Learning\Azure\Services\obj\Debug\net6.0\Services.pdb
+D:\Learning\Azure\Services\obj\Debug\net6.0\ref\Services.dll
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.dll
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\refint\Services.dll
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.pdb
+F:\Project\New folder (2)\Services\bin\Debug\net6.0\Services.deps.json
+F:\Project\New folder (2)\Services\bin\Debug\net6.0\Services.dll
+F:\Project\New folder (2)\Services\bin\Debug\net6.0\Services.pdb
+F:\Project\New folder (2)\Services\bin\Debug\net6.0\Repositories.dll
+F:\Project\New folder (2)\Services\bin\Debug\net6.0\Repositories.pdb
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\Services.csproj.Up2Date
+F:\Project\New folder (2)\Services\obj\Debug\net6.0\ref\Services.dll

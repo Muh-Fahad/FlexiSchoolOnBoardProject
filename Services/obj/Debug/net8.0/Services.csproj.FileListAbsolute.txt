@@ -1,0 +1,60 @@
+F:\Project\New folder (2)\Services\bin\Debug\net8.0\Services.deps.json
+F:\Project\New folder (2)\Services\bin\Debug\net8.0\Services.dll
+F:\Project\New folder (2)\Services\bin\Debug\net8.0\Services.pdb
+F:\Project\New folder (2)\Services\bin\Debug\net8.0\Repositories.dll
+F:\Project\New folder (2)\Services\bin\Debug\net8.0\Repositories.pdb
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.dll
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\refint\Services.dll
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\Services.pdb
+F:\Project\New folder (2)\Services\obj\Debug\net8.0\ref\Services.dll
+F:\Project\On-Board-Project\Services\bin\Debug\net8.0\Services.deps.json
+F:\Project\On-Board-Project\Services\bin\Debug\net8.0\Services.dll
+F:\Project\On-Board-Project\Services\bin\Debug\net8.0\Services.pdb
+F:\Project\On-Board-Project\Services\bin\Debug\net8.0\Repositories.dll
+F:\Project\On-Board-Project\Services\bin\Debug\net8.0\Repositories.pdb
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.dll
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\refint\Services.dll
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\Services.pdb
+F:\Project\On-Board-Project\Services\obj\Debug\net8.0\ref\Services.dll
+F:\On-Board-Project\On-Board-Project\Services\bin\Debug\net8.0\Services.deps.json
+F:\On-Board-Project\On-Board-Project\Services\bin\Debug\net8.0\Services.dll
+F:\On-Board-Project\On-Board-Project\Services\bin\Debug\net8.0\Services.pdb
+F:\On-Board-Project\On-Board-Project\Services\bin\Debug\net8.0\Repositories.dll
+F:\On-Board-Project\On-Board-Project\Services\bin\Debug\net8.0\Repositories.pdb
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.dll
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\refint\Services.dll
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\Services.pdb
+F:\On-Board-Project\On-Board-Project\Services\obj\Debug\net8.0\ref\Services.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\bin\Debug\net8.0\Services.deps.json
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\bin\Debug\net8.0\Services.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\bin\Debug\net8.0\Services.pdb
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\refint\Services.dll
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\Services.pdb
+C:\Users\V-KhadimF\source\repos\Muh-Fahad\FlexiSchoolOnBoardProject\Services\obj\Debug\net8.0\ref\Services.dll
